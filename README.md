@@ -1,3 +1,3 @@
-# UCR-Cyberx2
+# UCR-CYBERBOOT
 
-  Contains Scripts and Projects from cybersecurity course.
+  Contains scripts and projects from University California Riverside Cybersecurity Bootcamp.
