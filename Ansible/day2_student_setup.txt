@@ -1,4 +1,4 @@
-﻿day2_student_setup.sh
+﻿john_setup
 
 
 #!/usr/bin/env bash
