@@ -1,3 +1,3 @@
 # UCR-CYBERBOOT
 
-  Contains scripts and projects from University California Riverside Cybersecurity Bootcamp.
+  Contains scripts and projects from University California Riverside Cybersecurity Bootcamp 2021.
